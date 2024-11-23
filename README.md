@@ -100,3 +100,11 @@ One possible solution:
   - Vehicle #5 to Slot #1
   - 4 blue riders boarding Vehicle #5 (4/4)
   - Vehicle #5 departing
+
+## Extras
+
+- Similar games
+  - Bus Frenzy on [Google Play](https://play.google.com/store/apps/details?id=com.color.busfrenzy) and [App Store](https://apps.apple.com/us/app/bus-frenzy-station-shuffle/id6654917975)
+  - Bus Out on [Google Play](https://play.google.com/store/apps/details?id=com.ig.bus.out) and [App Store](https://apps.apple.com/us/app/bus-out/id6736378756)
+  - Car Jam on [Google Play](https://play.google.com/store/apps/details?id=car.jam.traffic.seat.unblock) and [App Store](https://apps.apple.com/us/app/car-jam-escape-traffic-puzzle/id6505095234)
+  - ...
